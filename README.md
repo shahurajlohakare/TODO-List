@@ -1,1 +1,2 @@
-# ToDo-List
+# TODOs-Web-App
+A simple TODO list
